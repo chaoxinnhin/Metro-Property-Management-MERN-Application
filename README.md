@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aubreybmina/mission-5.git">
-    <img src="ui/src/assets/images/pbtech-blue.png  CHANGE THIS" alt="Logo" width="80">
+    <img src="client/src/images/Logo.png  CHANGE THIS" alt="Logo" width="80">
   </a>
 
 <h3 align="center">Mission 5 - Metro Property Management Page Re-design</h3>
